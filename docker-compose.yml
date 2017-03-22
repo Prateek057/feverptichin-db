@@ -1,0 +1,4 @@
+feverpitchdb:
+  image: mariadb
+  environment:
+    MYSQL_ROOT_PASSWORD: admin
